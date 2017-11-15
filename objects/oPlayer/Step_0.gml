@@ -9,7 +9,7 @@ hspd = 0
 
 
 if (vmove && can_shoot){	
-	vspd = -jump_speed
+	vspd -= jump_speed
 	can_shoot = false
 	var bullet = instance_create_layer(x,y,"Instances", oBullet)
 	bullet.vspd = projectile_speed
@@ -29,6 +29,8 @@ vspd += grv
 
 if (vspd > 20){
 	vspd = 20
+}else if (vspd < -20){
+	vspd = -20
 }
 
 y += vspd

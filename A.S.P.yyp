@@ -74,7 +74,7 @@
             "Key": "378126c2-ed98-4463-aa91-e8b4ec1d701c",
             "Value": {
                 "id": "e3061097-8ce8-4fd5-873d-906489cd0251",
-                "resourcePath": "objects\\objPlayer\\objPlayer.yy",
+                "resourcePath": "objects\\oPlayer\\oPlayer.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -108,6 +108,14 @@
                 "id": "1a844d79-31b0-4666-bdd2-be00255b9fc4",
                 "resourcePath": "views\\8cc92b2c-e6cd-41e1-ba70-9e9f92cb4d8d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9e2b8e23-a69b-4dd5-ad37-769f0b19a513",
+            "Value": {
+                "id": "6a6c86b5-5a64-45db-96b3-f0a08cbece37",
+                "resourcePath": "sprites\\sPlayer\\sPlayer.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -164,6 +172,14 @@
                 "id": "66e017b6-1282-4087-837a-d8ee967a7f49",
                 "resourcePath": "views\\dff1de8e-116b-4fb1-ba0a-f2983f7cfba1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e97579ed-437b-46ed-b3a8-f60304aa5bcb",
+            "Value": {
+                "id": "b234455d-746c-446e-b5f8-3841c69579c8",
+                "resourcePath": "objects\\oBullet\\oBullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
