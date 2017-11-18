@@ -7,3 +7,4 @@ can_shoot = true
 projectile_speed = 20
 jump_speed = 20
 grv = .5
+hspd = 10

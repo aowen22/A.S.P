@@ -135,11 +135,27 @@
             }
         },
         {
+            "Key": "aa36bb38-ae36-41fa-b15a-8a80987a5b95",
+            "Value": {
+                "id": "035bac2c-011a-4d6c-99af-0e9c745c097f",
+                "resourcePath": "objects\\oEnemy1\\oEnemy1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b43e36dd-804f-422a-b746-bbb9ce4bbcac",
             "Value": {
                 "id": "62f25949-aea9-487e-92ff-c598bcaed016",
                 "resourcePath": "views\\b43e36dd-804f-422a-b746-bbb9ce4bbcac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c8cd553d-a17e-4a1e-b384-15b78ce88aca",
+            "Value": {
+                "id": "68fb9bae-8056-4ac2-b565-2cbb54202848",
+                "resourcePath": "objects\\MainController\\MainController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
