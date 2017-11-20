@@ -1,14 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(instance_exists(oPlayer)){
-	var targetx = oPlayer.x
-	var targety = oPlayer.y - 100
-}else{
-	var targetx = 0
-	var targety = 0
-}
-x += (targetx-x)/25
-y += (targety-y)/25
+
+var targetx = player.x + view_wport[0]/3
+//var targety = player.y - 100
+
+//x += (targetx-x)/25
+x = targetx
+//y += (targety-y)/25
 //bound camera
 if(y > room_height - 300){
 	y = room_height - 300
