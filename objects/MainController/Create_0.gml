@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-player = instance_create_layer(160,320,"Instances",objPlayerTank)
+player = instance_create_layer(160,320,"Instances",objPlayerDualCannon)
 
 camera = camera_create()
 
