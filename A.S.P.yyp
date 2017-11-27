@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "6c8999e0-4041-4bf4-92bf-3d65c6045d48",
+            "Value": {
+                "id": "d2ea7e54-de89-4617-b6f7-ef9a6c84ce22",
+                "resourcePath": "objects\\objPlayerOneGun\\objPlayerOneGun.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "742d03a4-8d1f-4eae-b551-80cf741b3bf8",
             "Value": {
                 "id": "8946d05e-2082-4508-8d36-653e6d5be4db",
@@ -154,7 +162,15 @@
             "Key": "863b4b44-68db-468a-be44-8a66d2fecf26",
             "Value": {
                 "id": "0dcd0ce0-40ff-4872-a934-575767628b46",
-                "resourcePath": "objects\\objPlayer2\\objPlayer2.yy",
+                "resourcePath": "objects\\objPlayerDualCannon\\objPlayerDualCannon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8aea1e97-ba33-442b-b1b8-40d64cbe57f8",
+            "Value": {
+                "id": "d86624b3-cad2-4fb7-b9d0-fecd458043d2",
+                "resourcePath": "objects\\objPlayerTank\\objPlayerTank.yy",
                 "resourceType": "GMObject"
             }
         },

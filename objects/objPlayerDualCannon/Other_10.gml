@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-vspd -= jump_speed
+vspd = -jump_speed
 can_shoot = false
 var bullet = instance_create_layer(x,y,"Instances", objBullet)
 bullet.vspd = projectile_speed
