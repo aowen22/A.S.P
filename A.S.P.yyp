@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2bf1db5d-5989-412f-9237-80c7b7e78ef4",
+            "Value": {
+                "id": "d5b70de1-cfbc-4d59-bb11-6939f1288647",
+                "resourcePath": "sprites\\sTinyCloud\\sTinyCloud.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "32391185-eefc-4cde-b63d-2b9a122e373d",
             "Value": {
                 "id": "c6e6d517-158b-4a77-86f2-a7737353b027",
@@ -84,6 +92,14 @@
                 "id": "1483e9d3-12da-4231-9cac-2c42f5f52595",
                 "resourcePath": "views\\3af54fdf-9238-4f00-9cde-076c2fa8f3af.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "742d03a4-8d1f-4eae-b551-80cf741b3bf8",
+            "Value": {
+                "id": "8946d05e-2082-4508-8d36-653e6d5be4db",
+                "resourcePath": "sprites\\sSmallishCloud\\sSmallishCloud.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -119,6 +135,14 @@
             }
         },
         {
+            "Key": "904e9b89-f6df-4c73-bd0a-832108df54ec",
+            "Value": {
+                "id": "097a3d76-b967-4770-9c9c-5080dc234d13",
+                "resourcePath": "sprites\\sMediumCloud\\sMediumCloud.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9e2b8e23-a69b-4dd5-ad37-769f0b19a513",
             "Value": {
                 "id": "6a6c86b5-5a64-45db-96b3-f0a08cbece37",
@@ -148,6 +172,22 @@
                 "id": "62f25949-aea9-487e-92ff-c598bcaed016",
                 "resourcePath": "views\\b43e36dd-804f-422a-b746-bbb9ce4bbcac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b4789fbb-9527-483d-bcfe-9ac9012f272d",
+            "Value": {
+                "id": "49da5ac9-8ae0-42af-83dc-fd07d34cda33",
+                "resourcePath": "sprites\\sBigCloud\\sBigCloud.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc5be00e-2f17-4bc7-9974-2aca5e20e194",
+            "Value": {
+                "id": "804b57a6-8fe8-42eb-bc85-baf70b08126e",
+                "resourcePath": "sprites\\sSmallCloud\\sSmallCloud.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
