@@ -2,7 +2,7 @@
     "id": "71169d79-4f23-4dba-b35a-7d74e7dd4271",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite8",
+    "name": "sExplosion",
     "For3D": false,
     "HTile": false,
     "VTile": false,
