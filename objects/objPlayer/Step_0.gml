@@ -5,21 +5,12 @@
 var shoot = keyboard_check_pressed(ord("Z"))
 var vmove = keyboard_check_pressed(vk_space)
 
-if (vmove && can_shoot){	
-	vspd -= jump_speed
-	can_shoot = false
-	var bullet = instance_create_layer(x,y,"Instances", oBullet)
-	bullet.vspd = projectile_speed
-	bullet.hspd = self.hspd
-	alarm_set(0, cooldown)
+if (vmove && can_shoot){
+	event_user(0)
 }
 
 if (shoot && can_shoot){
-	var bullet = instance_create_layer(x,y,"Instances",oBullet)
-	bullet.hspd = self.hspd + projectile_speed
-	bullet.vspd = 0
-	can_shoot = false
-	alarm_set(0, cooldown)
+	event_user(1)
 }
 
 vspd += grv

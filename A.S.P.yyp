@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "131db618-1ad8-4e5b-821f-6bdba4cb2ddc",
+            "Value": {
+                "id": "fdb61dd4-2881-478d-b20d-a8eec4ae56fb",
+                "resourcePath": "objects\\oCloud\\oCloud.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1b0414bd-d225-4249-8249-0e296a18842c",
             "Value": {
                 "id": "e03a33a8-86e2-4d3b-9f44-9cffb666bfda",
@@ -95,11 +103,27 @@
             }
         },
         {
+            "Key": "4ff23994-b237-458d-8987-ebc55bc79d59",
+            "Value": {
+                "id": "4d0e2da8-cbcf-47dd-9479-69b1e5490218",
+                "resourcePath": "objects\\oSmallishCloud\\oSmallishCloud.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "742d03a4-8d1f-4eae-b551-80cf741b3bf8",
             "Value": {
                 "id": "8946d05e-2082-4508-8d36-653e6d5be4db",
                 "resourcePath": "sprites\\sSmallishCloud\\sSmallishCloud.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "777b9e6f-5e79-476d-93a8-825a95dae9d7",
+            "Value": {
+                "id": "19bb7505-4748-4119-b518-d6515447f0ae",
+                "resourcePath": "objects\\oBigCloud\\oBigCloud.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -215,6 +239,14 @@
             }
         },
         {
+            "Key": "cc3e4d85-4665-4d83-8c58-2b7ddb301ef2",
+            "Value": {
+                "id": "3f631f8e-bb4c-418b-bb37-02d665dc69ce",
+                "resourcePath": "objects\\oMediumCloud\\oMediumCloud.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "d722c891-9d40-4800-bb07-ae2a058d0ec2",
@@ -268,6 +300,14 @@
                 "id": "6f4fe813-9e45-463a-a4b0-180cc6608383",
                 "resourcePath": "views\\eb1b34aa-3e23-4ec5-bcc1-678c899e5ce3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "edd839b7-41eb-4250-acd3-dcdeba51323f",
+            "Value": {
+                "id": "cef492a9-3451-4c5c-855d-6cd25d1f1eb2",
+                "resourcePath": "objects\\oSmallCloud\\oSmallCloud.yy",
+                "resourceType": "GMObject"
             }
         },
         {
