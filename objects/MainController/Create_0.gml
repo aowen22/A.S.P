@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-player = instance_create_depth(160,320,1,objPlayer)
+player = instance_create_layer(160,320,"Instances",objPlayer)
 
 camera = camera_create()
 
