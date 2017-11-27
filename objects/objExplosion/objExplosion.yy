@@ -1,18 +1,18 @@
 {
-    "id": "131db618-1ad8-4e5b-821f-6bdba4cb2ddc",
+    "id": "56c4a1d5-b1f5-4a06-a747-666fea16ac61",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oCloud",
+    "name": "objExplosion",
     "eventList": [
         {
-            "id": "8e86a617-d80c-40c7-bdd6-a5fb5f7fe5c0",
+            "id": "b66caefd-9e02-4668-a0e9-91c02fb59c80",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "131db618-1ad8-4e5b-821f-6bdba4cb2ddc"
+            "enumb": 7,
+            "eventtype": 7,
+            "m_owner": "56c4a1d5-b1f5-4a06-a747-666fea16ac61"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +31,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "71169d79-4f23-4dba-b35a-7d74e7dd4271",
     "visible": true
 }
