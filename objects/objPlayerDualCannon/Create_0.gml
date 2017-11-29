@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+event_inherited()
 cooldown = 40
 vspd = 0
 can_shoot = true

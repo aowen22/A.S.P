@@ -1,6 +1,7 @@
 /// @description Set cooldowns and projectile speed
 
 // You can write your code in this editor
+event_inherited()
 cooldown = 15
 vspd = 0
 can_shoot = true

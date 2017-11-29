@@ -21,11 +21,17 @@ if (vspd > 20){
 	vspd = -20
 }
 
-y += vspd
+
 x += hspd
 
 //check if player is on ground
-
+if(y >= MainController.y + view_hport[0]/1.5){
+	vspd = 0
+}
+y += vspd
+if(hlth <= 0){
+	//end game
+}
 
 
 

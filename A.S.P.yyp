@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "319a293d-e00f-45e3-ba58-2f0c1b79fe13",
+            "Value": {
+                "id": "97f79725-2af2-4fca-bfa8-07273fbaa091",
+                "resourcePath": "views\\319a293d-e00f-45e3-ba58-2f0c1b79fe13.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "32391185-eefc-4cde-b63d-2b9a122e373d",
             "Value": {
                 "id": "c6e6d517-158b-4a77-86f2-a7737353b027",
@@ -247,11 +255,27 @@
             }
         },
         {
+            "Key": "8ccbb2d9-debd-4f9d-b2bc-8555326a85fe",
+            "Value": {
+                "id": "d6d17555-98c4-4c94-8f33-302a400d98c3",
+                "resourcePath": "views\\8ccbb2d9-debd-4f9d-b2bc-8555326a85fe.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "904e9b89-f6df-4c73-bd0a-832108df54ec",
             "Value": {
                 "id": "097a3d76-b967-4770-9c9c-5080dc234d13",
                 "resourcePath": "sprites\\sMediumCloud\\sMediumCloud.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "988658a1-35d0-4c44-b415-f7baeed8da75",
+            "Value": {
+                "id": "d931755f-915b-4531-892f-9d15635dea22",
+                "resourcePath": "views\\988658a1-35d0-4c44-b415-f7baeed8da75.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

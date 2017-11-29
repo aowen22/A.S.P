@@ -3,10 +3,9 @@
 instance_deactivate_all(true)
 instance_activate_object(objRoofBoundary)
 player = instance_create_layer(160,320,"Instances",objPlayerDualCannon)
-
 camera = camera_create()
 
-
+y = 768/2
 
 var vm = matrix_build_lookat(x,y,-10,x,y,0,0,1,0)
 var pm = matrix_build_projection_ortho(1024, 768, 1, 10000)
