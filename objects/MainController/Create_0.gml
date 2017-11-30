@@ -2,7 +2,7 @@
 // You can write your code in this editor
 instance_deactivate_all(true)
 instance_activate_object(objRoofBoundary)
-player = instance_create_layer(160,320,"Instances",objPlayerDualCannon)
+player = instance_create_layer(160,320,"Instances",objPlayer)
 
 camera = camera_create()
 
@@ -15,3 +15,8 @@ camera_set_view_mat(camera, vm)
 camera_set_proj_mat(camera, pm)
 
 view_camera[0] = camera
+
+bDeathExplosion = false
+//temp code for game win/lose for playable assignment
+bWinState = false
+bLoseState = false
