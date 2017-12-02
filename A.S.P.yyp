@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "8d8c4be3-e51a-469e-8d48-2440b91efef8",
+            "Value": {
+                "id": "8a2b4abb-4d69-465b-b499-6653301a9859",
+                "resourcePath": "objects\\MenuController\\MenuController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "904e9b89-f6df-4c73-bd0a-832108df54ec",
             "Value": {
                 "id": "097a3d76-b967-4770-9c9c-5080dc234d13",

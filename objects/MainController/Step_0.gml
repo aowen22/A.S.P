@@ -26,7 +26,7 @@ if player.x > 4400 {
 	player.can_shoot = false
 }
 
-if player.y > 768 {
+if (player.y > 768 or player.hlth <= 0) {
 	bLoseState = true
 	player.grv = 0
 	player.vspd = 0
