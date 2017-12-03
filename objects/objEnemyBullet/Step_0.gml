@@ -42,3 +42,5 @@ if (objType == 4) {
 		bHasFired = true
 	}
 }
+
+if(x <= MainController.x - view_wport[0]) instance_destroy(self)
