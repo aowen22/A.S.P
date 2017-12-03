@@ -183,6 +183,22 @@
             }
         },
         {
+            "Key": "5421c5a2-1ab4-43ea-95c7-68286d8ca94a",
+            "Value": {
+                "id": "b4f5dc64-d924-469d-ac2d-8cf2f974e71e",
+                "resourcePath": "objects\\oBoss2\\oBoss2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "65092f06-9645-47e3-bfd5-1440c4b35483",
+            "Value": {
+                "id": "c88f3812-b728-487a-a5e8-c05456c6a67a",
+                "resourcePath": "paths\\pEnemy5\\pEnemy5.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "6c8999e0-4041-4bf4-92bf-3d65c6045d48",
             "Value": {
                 "id": "d2ea7e54-de89-4617-b6f7-ef9a6c84ce22",
@@ -396,6 +412,14 @@
                 "id": "49da5ac9-8ae0-42af-83dc-fd07d34cda33",
                 "resourcePath": "sprites\\sBigCloud\\sBigCloud.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bbc4ecd3-f283-48b3-b26a-66fe44aad979",
+            "Value": {
+                "id": "3818c61c-737a-4c84-82dc-22f561d43d22",
+                "resourcePath": "objects\\oEnemyPath\\oEnemyPath.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -12,3 +12,5 @@ if(random(1) <= .5){
 	bullet.objType = 4
 	
 }
+
+alarm_set(0,room_speed*1.5)

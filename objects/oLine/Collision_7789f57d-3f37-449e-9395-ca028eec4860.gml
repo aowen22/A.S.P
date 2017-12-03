@@ -4,3 +4,5 @@
 other.hspd = 0
 
 instance_create_layer(x,y,"Instances",oBossTest)
+
+instance_destroy(self)
