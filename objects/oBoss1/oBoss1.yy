@@ -1,32 +1,42 @@
 {
-    "id": "aa36bb38-ae36-41fa-b15a-8a80987a5b95",
+    "id": "79dfcf5b-f1c3-4e1e-9cdc-a742565f0422",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oEnemy1",
+    "name": "oBoss1",
     "eventList": [
         {
-            "id": "637844b3-e86f-46df-9e3a-45adc4371c3d",
+            "id": "b287ab14-12d2-4c1f-9042-e498970dd3b4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "aa36bb38-ae36-41fa-b15a-8a80987a5b95"
+            "m_owner": "79dfcf5b-f1c3-4e1e-9cdc-a742565f0422"
         },
         {
-            "id": "6fc26acb-07d3-42b9-9d54-b984a20204e2",
+            "id": "52d2ebc9-54c5-41ca-87ac-d388de971cd4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "1e0ce475-90d5-4126-aef0-4c845539f4fb",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "79dfcf5b-f1c3-4e1e-9cdc-a742565f0422"
+        },
+        {
+            "id": "6919085a-2624-4a65-8368-c31c9cba22af",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 2,
-            "m_owner": "aa36bb38-ae36-41fa-b15a-8a80987a5b95"
+            "m_owner": "79dfcf5b-f1c3-4e1e-9cdc-a742565f0422"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "91433fd8-4287-49db-93d2-429c4f479259",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -41,6 +51,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "9ab4a66c-074a-44d5-b017-19996a950a4a",
+    "spriteId": "9e2b8e23-a69b-4dd5-ad37-769f0b19a513",
     "visible": true
 }

@@ -7,5 +7,6 @@ if bWinState = true {
 
 if bLoseState = true {
 	draw_set_color(c_red)
-	draw_text_transformed(player.x-100,player.y - 700,"You fell to the ground, Game Over!",3,3,0)
+	draw_set_font(font)
+	draw_text_transformed(player.x-100,player.y - 700,"[Mission Failed]",3,3,0)
 }
