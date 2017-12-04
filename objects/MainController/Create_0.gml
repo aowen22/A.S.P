@@ -1,8 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-font = font_add("old_stamper.ttf",24,false,false,65,252)
-
 instance_deactivate_all(true)
 instance_activate_object(objRoofBoundary)
 player = instance_create_layer(160,320,"Instances",objPlayer)

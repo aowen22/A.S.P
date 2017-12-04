@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "bc8d02a6-055b-42b3-be1d-8007c298b9ca",
+            "Value": {
+                "id": "78c49291-f078-465f-8af9-344feb44b453",
+                "resourcePath": "fonts\\Stamp\\Stamp.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "bded0900-aab2-4884-b390-6dc5c210a395",
             "Value": {
                 "id": "b663e3a8-a1ee-4c34-beb8-9b4d97509a95",
