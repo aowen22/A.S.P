@@ -11,5 +11,5 @@ switch(action){
 		break
 }
 
-draw_sprite(sCursor,0,x,y)
+draw_self()
 
