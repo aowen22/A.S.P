@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "0ef1f31f-cffc-4926-ac62-ddc412881c2d",
+            "Value": {
+                "id": "142d6d59-bfda-4f0c-a763-9163a376eb1c",
+                "resourcePath": "sprites\\bg3\\bg3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f10b134-6b37-49b5-8243-23c09f4db48f",
             "Value": {
                 "id": "f463af87-b631-43b8-b2bf-9284207b388b",
@@ -124,6 +132,14 @@
                 "id": "3b358e71-6828-4bdb-af93-8cf4821cbd7a",
                 "resourcePath": "objects\\objBullet\\objBullet.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "255b0faa-dad4-4f56-88b7-0a84b8ed57d2",
+            "Value": {
+                "id": "24cc54f8-ebbc-470f-8542-1f303fe0340e",
+                "resourcePath": "sounds\\sdfire\\sdfire.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -220,6 +236,14 @@
                 "id": "5a823f22-af2a-44f1-b2f6-58567c93fda5",
                 "resourcePath": "views\\4c75b95c-56a0-4829-bf68-179aa1945061.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4c844794-fee3-43c1-baec-8484bd218e2e",
+            "Value": {
+                "id": "2c4916af-1ed2-4869-976b-b3a7156ecd95",
+                "resourcePath": "sprites\\sExplosionRadial\\sExplosionRadial.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -364,6 +388,14 @@
                 "id": "1f1d86d1-aad0-433f-a64f-68a8dc4fabbe",
                 "resourcePath": "objects\\oBoss1\\oBoss1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7a456c1f-43b9-4eff-8ec4-6a4f5951a4cd",
+            "Value": {
+                "id": "8b4065ca-e570-4104-9d7b-b5044217316d",
+                "resourcePath": "sounds\\sdexplosion1\\sdexplosion1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -532,6 +564,14 @@
                 "id": "035bac2c-011a-4d6c-99af-0e9c745c097f",
                 "resourcePath": "objects\\oEnemy1\\oEnemy1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ab3bac8c-bcc6-4008-84e7-af266f35e762",
+            "Value": {
+                "id": "33338341-ebcc-4369-bdeb-47499e2e3fa6",
+                "resourcePath": "sounds\\sdexplosion2\\sdexplosion2.yy",
+                "resourceType": "GMSound"
             }
         },
         {

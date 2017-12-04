@@ -3,6 +3,8 @@
 //instance_deactivate_all(true)
 //instance_activate_object(objRoofBoundary)
 
+audio_play_sound(sdbgm,0,true)
+
 switch(global.selectedCharacter){
 	case 0:
 		player = instance_create_layer(160,96,"Instances",objPlayerOneGun)

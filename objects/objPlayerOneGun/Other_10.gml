@@ -1,6 +1,8 @@
 /// @description Jump Code
 // You can write your code in this editor
 
+audio_play_sound(sdfire,0,false)
+
 sprite_index = sprBazookaGuyDown
 vspd = -jump_speed
 can_shoot = false

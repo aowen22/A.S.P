@@ -1,14 +1,14 @@
 {
-    "id": "956f6e91-69b2-4d48-9f8c-c8aa9865a93a",
+    "id": "255b0faa-dad4-4f56-88b7-0a84b8ed57d2",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "sdbgm",
+    "name": "sdfire",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
-    "bitRate": 512,
+    "bitRate": 128,
     "kind": 0,
     "preload": false,
-    "sampleRate": 48000,
-    "type": 1,
+    "sampleRate": 44100,
+    "type": 0,
     "volume": 1
 }

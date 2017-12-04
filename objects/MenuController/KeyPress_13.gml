@@ -3,6 +3,8 @@
 
 //perform action
 
+audio_play_sound(sdexplosion2,0,false)
+
 switch(action){
 	case 0:
 		room_goto_next()

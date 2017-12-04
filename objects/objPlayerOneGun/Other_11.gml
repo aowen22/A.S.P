@@ -1,6 +1,8 @@
 /// @description Shoot Code
 // You can write your code in this editor
 
+audio_play_sound(sdfire,0,false)
+
 sprite_index = sprBazookaGuyIdle
 var bullet = instance_create_layer(x,y-50,"Instances",objMissile)
 bullet.hspd = self.hspd + projectile_speed
