@@ -1,5 +1,15 @@
 /// @description Insert description here
 // You can write your code in this editor
-draw_text(x,y, "Start")
-draw_text(x,y + 100, "Exit")
-draw_sprite(sBullet, 0,x,y + action*100)
+switch(action){
+	case 0:
+		x = 737
+		y = 371
+		break
+	case 1:
+		x = 737
+		y = 432
+		break
+}
+
+draw_sprite(sCursor,0,x,y)
+
