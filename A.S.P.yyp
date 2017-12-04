@@ -63,11 +63,35 @@
             }
         },
         {
+            "Key": "07a1342e-d3c8-477e-b41a-16a062da4392",
+            "Value": {
+                "id": "d55e8e1e-cf47-4409-8ed6-ce8c067eeede",
+                "resourcePath": "objects\\objPlayerOneGun1\\objPlayerOneGun1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0981ec1e-ca89-465b-8a3a-fa4d9bcfc3e6",
+            "Value": {
+                "id": "5fbbf718-ba89-480d-b3f7-6ca69b543b68",
+                "resourcePath": "objects\\objPlayerTank1\\objPlayerTank1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ef02317-7e56-44a1-85f9-d82b4e65a312",
             "Value": {
                 "id": "c1664f5c-17d4-4baf-a7dc-a65efd469890",
                 "resourcePath": "views\\0ef02317-7e56-44a1-85f9-d82b4e65a312.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0f10b134-6b37-49b5-8243-23c09f4db48f",
+            "Value": {
+                "id": "f463af87-b631-43b8-b2bf-9284207b388b",
+                "resourcePath": "sprites\\sprBazookaGuy\\sprBazookaGuy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -79,10 +103,10 @@
             }
         },
         {
-            "Key": "14c5f3a9-4d76-4138-85f0-c1c316f0c3bf",
+            "Key": "161d3ed8-e05b-440a-9a58-3db5e6f6cc4c",
             "Value": {
-                "id": "6be31c1e-7c97-4121-8d27-0e447ae25f54",
-                "resourcePath": "sprites\\sBullet\\sBullet.yy",
+                "id": "c791fb00-b4f0-42ae-a51f-b432c7de9de4",
+                "resourcePath": "sprites\\sprMissileDown\\sprMissileDown.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -119,6 +143,14 @@
             }
         },
         {
+            "Key": "2d93f117-a7c2-4679-818f-e7653871117a",
+            "Value": {
+                "id": "1304a36f-058c-47fd-8333-8b013c98b459",
+                "resourcePath": "sprites\\sprTankIdle\\sprTankIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "319a293d-e00f-45e3-ba58-2f0c1b79fe13",
             "Value": {
                 "id": "97f79725-2af2-4fca-bfa8-07273fbaa091",
@@ -151,6 +183,22 @@
             }
         },
         {
+            "Key": "434e38c7-015c-4236-bd01-99d4be1dbe5e",
+            "Value": {
+                "id": "a608c68d-b3db-4816-9de5-84c040ea0188",
+                "resourcePath": "sprites\\sprTankRotate\\sprTankRotate.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "470a5ec4-f97f-47aa-b5df-ce040fc3703f",
+            "Value": {
+                "id": "87645fe3-08c1-436d-b60a-4bbc654758c6",
+                "resourcePath": "sprites\\sprBazookaGuyDown\\sprBazookaGuyDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "451d8f09-0d7e-4537-808d-b8abc42f4aeb",
             "Value": {
                 "id": "31c6e2a2-fe8e-49da-8271-60c5524c4755",
@@ -167,6 +215,14 @@
             }
         },
         {
+            "Key": "4f85ee84-33ff-4c81-8513-ca6763ab8d9f",
+            "Value": {
+                "id": "a3c8ab70-3156-4af5-a590-1600b7a4effa",
+                "resourcePath": "objects\\objMissile\\objMissile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4ff23994-b237-458d-8987-ebc55bc79d59",
             "Value": {
                 "id": "4d0e2da8-cbcf-47dd-9479-69b1e5490218",
@@ -179,6 +235,22 @@
             "Value": {
                 "id": "b371758e-5c94-4492-baaa-a827d3108c51",
                 "resourcePath": "sprites\\sprEnemyFour\\sprEnemyFour.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "539c5394-9911-4617-ac1e-37d0355c92af",
+            "Value": {
+                "id": "39714d84-c9d0-4c91-8b49-503ee3be3d5e",
+                "resourcePath": "sprites\\sprMissile\\sprMissile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "65823201-94f4-4936-a802-3e26972e02b6",
+            "Value": {
+                "id": "3b6c3c63-22be-4f03-b68b-a6467da44c14",
+                "resourcePath": "sprites\\sprBazookaGuyIdle\\sprBazookaGuyIdle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -239,6 +311,14 @@
             }
         },
         {
+            "Key": "75fda753-d5c6-41e1-ab38-a685bb7d78da",
+            "Value": {
+                "id": "79102f7e-b3aa-4c8b-a765-dec5981e6728",
+                "resourcePath": "sprites\\sBulletDown\\sBulletDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "777b9e6f-5e79-476d-93a8-825a95dae9d7",
             "Value": {
                 "id": "19bb7505-4748-4119-b518-d6515447f0ae",
@@ -252,6 +332,14 @@
                 "id": "99fe3036-b702-4693-b1dd-3c4cd8e0f44d",
                 "resourcePath": "views\\7910580f-e774-411c-944e-c948d690fa84.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7a5dbe4e-afcc-4228-bc1d-06abd938c260",
+            "Value": {
+                "id": "59201a59-c881-4ef6-a985-b755920baa77",
+                "resourcePath": "sprites\\sprPlayerDualCannon\\sprPlayerDualCannon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -399,6 +487,22 @@
             }
         },
         {
+            "Key": "ae230ba8-0086-4481-8f3e-238e146d2b02",
+            "Value": {
+                "id": "e1fee24f-2555-4cca-88f6-604b1abc4b6f",
+                "resourcePath": "sprites\\sprTankRotateReverse\\sprTankRotateReverse.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b1437861-7b17-43aa-bdc8-5f1f865dab93",
+            "Value": {
+                "id": "dc90a3b5-9e31-439d-82c1-5b96064a738e",
+                "resourcePath": "sprites\\sprBazookaGuyReverse\\sprBazookaGuyReverse.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b43e36dd-804f-422a-b746-bbb9ce4bbcac",
             "Value": {
                 "id": "62f25949-aea9-487e-92ff-c598bcaed016",
@@ -535,6 +639,14 @@
             }
         },
         {
+            "Key": "d8c36b7f-70f2-45f9-aa69-0ff4a6186f5b",
+            "Value": {
+                "id": "525a0037-3c04-4f43-9ad5-7156d6cabcb9",
+                "resourcePath": "sprites\\sprTankDown\\sprTankDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dff1de8e-116b-4fb1-ba0a-f2983f7cfba1",
             "Value": {
                 "id": "66e017b6-1282-4087-837a-d8ee967a7f49",
@@ -564,6 +676,14 @@
                 "id": "6f4fe813-9e45-463a-a4b0-180cc6608383",
                 "resourcePath": "views\\eb1b34aa-3e23-4ec5-bcc1-678c899e5ce3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eb28787c-aae0-47f2-845a-fce6e2ef79f9",
+            "Value": {
+                "id": "c6b41daa-3276-4b63-9291-886dca6230c4",
+                "resourcePath": "sprites\\sBullet\\sBullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

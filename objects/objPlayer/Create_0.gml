@@ -9,4 +9,4 @@ jump_speed = 15
 grv = .5
 hspd = 1
 
-hlth = 3
+hlth = 10
