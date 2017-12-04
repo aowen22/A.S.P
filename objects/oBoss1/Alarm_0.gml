@@ -5,7 +5,7 @@
 
 if(random(1) <= .5){
 
-	bullet.objType = 0
+	bullet.objType = 1
 	
 }else{
 	

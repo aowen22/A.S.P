@@ -12,9 +12,11 @@ if (objType == 2) {
 	if(bHasFired == false) {
 		hspeed = -10
 		vspeed = -10
+		image_angle = 45
 		downBullet = instance_create_layer(x,y,"Instances",objEnemyBullet)
 		downBullet.hspeed = -10
 		downBullet.vspeed = 10
+		downBullet.image_angle = -45
 		bHasFired = true
 	}
 	
@@ -28,8 +30,10 @@ if (objType == 3) {
 		downBullet = instance_create_layer(x,y,"Instances",objEnemyBullet)
 		upBullet.hspeed = -10
 		upBullet.vspeed = -10
+		upBullet.image_angle = 45
 		downBullet.hspeed = -10
 		downBullet.vspeed = 10
+		downBullet.image_angle = -45
 		bHasFired = true
 	}
 }
@@ -39,6 +43,7 @@ if (objType == 3) {
 if (objType == 4) {
 	if(bHasFired == false) {
 		move_towards_point(MainController.player.x,MainController.player.y,10)
+		image_angle = point_direction(x,y,MainController.player.x,MainController.player.y)
 		bHasFired = true
 	}
 }

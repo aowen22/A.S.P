@@ -2,8 +2,18 @@
 // You can write your code in this editor
 //instance_deactivate_all(true)
 //instance_activate_object(objRoofBoundary)
-player = instance_create_layer(160,96,"Instances",objPlayerDualCannon)
 
+switch(global.selectedCharacter){
+	case 0:
+		player = instance_create_layer(160,96,"Instances",objPlayerOneGun)
+		break
+	case 1:
+		player = instance_create_layer(160,96,"Instances",objPlayerDualCannon)
+		break
+	case 2:
+		player = instance_create_layer(160,96,"Instances",objPlayerTank)
+		break
+}
 camera = camera_create()
 
 y = 768/2
