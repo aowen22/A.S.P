@@ -5,16 +5,6 @@
     "name": "objPlayerOneGun",
     "eventList": [
         {
-            "id": "a721898c-cd20-4f0b-a3d2-5d35b7aa9e42",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "6c8999e0-4041-4bf4-92bf-3d65c6045d48"
-        },
-        {
             "id": "2a62242b-6561-469c-be51-3c17f686cc94",
             "modelName": "GMEvent",
             "mvc": "1.0",
