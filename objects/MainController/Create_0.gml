@@ -16,6 +16,10 @@ switch(global.selectedCharacter){
 		player = instance_create_layer(160,96,"Instances",objPlayerTank)
 		break
 }
+
+if(room == rStage3){
+	player.hspd = 0
+}
 camera = camera_create()
 
 y = 768/2

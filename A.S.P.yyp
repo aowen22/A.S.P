@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "297ccd48-5b62-4590-9a6b-65874013e11c",
+            "Value": {
+                "id": "bf808e62-6cde-4733-a175-788d581fcad3",
+                "resourcePath": "sprites\\sBoss3Slam\\sBoss3Slam.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2abbcf18-8de0-440b-966a-87d0c40fb461",
             "Value": {
                 "id": "184b7cfb-8243-4d20-b95d-3cbf76de74e2",
@@ -171,6 +179,14 @@
             "Value": {
                 "id": "d5b70de1-cfbc-4d59-bb11-6939f1288647",
                 "resourcePath": "sprites\\sTinyCloud\\sTinyCloud.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d5316c8-5d5a-46c2-9950-b43f082a8664",
+            "Value": {
+                "id": "d07e989a-eb57-4dfb-a616-4aba963cdb00",
+                "resourcePath": "sprites\\sBossSunglasses\\sBossSunglasses.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -335,6 +351,14 @@
             }
         },
         {
+            "Key": "60eb47b3-12af-414f-8ee9-d2fafee9ff2d",
+            "Value": {
+                "id": "f59dbc7d-9a4f-42be-bec9-8eb3211076ea",
+                "resourcePath": "objects\\oBoss3Arm\\oBoss3Arm.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "65092f06-9645-47e3-bfd5-1440c4b35483",
             "Value": {
                 "id": "c88f3812-b728-487a-a5e8-c05456c6a67a",
@@ -348,6 +372,22 @@
                 "id": "3b6c3c63-22be-4f03-b68b-a6467da44c14",
                 "resourcePath": "sprites\\sprBazookaGuyIdle\\sprBazookaGuyIdle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "69c9d824-072e-48cb-bb82-df8437ee2913",
+            "Value": {
+                "id": "49c956e2-bdc9-4f25-a019-1b94d6a095de",
+                "resourcePath": "objects\\oMiniMoon\\oMiniMoon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6b802d3a-45fc-4824-b050-fd83fad980b3",
+            "Value": {
+                "id": "4723536c-4a84-46ce-859d-5bcb6ccd6349",
+                "resourcePath": "rooms\\rStage3\\rStage3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -415,6 +455,14 @@
             }
         },
         {
+            "Key": "770ee290-72f5-4614-82c9-b2c0df3332fe",
+            "Value": {
+                "id": "302d5f26-a235-43c3-9aed-277526e590c6",
+                "resourcePath": "sprites\\sBossArm\\sBossArm.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "777b9e6f-5e79-476d-93a8-825a95dae9d7",
             "Value": {
                 "id": "19bb7505-4748-4119-b518-d6515447f0ae",
@@ -435,6 +483,14 @@
             "Value": {
                 "id": "1f1d86d1-aad0-433f-a64f-68a8dc4fabbe",
                 "resourcePath": "objects\\oBoss1\\oBoss1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7a28ce9f-e1c0-4409-81f3-2105b3d731a9",
+            "Value": {
+                "id": "36ffaf17-284a-45dd-80ee-b4e078471c80",
+                "resourcePath": "objects\\oBoss3Phase3\\oBoss3Phase3.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -551,6 +607,14 @@
             }
         },
         {
+            "Key": "8eae25b7-e83a-49b3-9301-58326a9cbd2d",
+            "Value": {
+                "id": "8f43c366-9b3f-40af-85af-302a90670ec4",
+                "resourcePath": "objects\\oBoss3\\oBoss3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "904e9b89-f6df-4c73-bd0a-832108df54ec",
             "Value": {
                 "id": "097a3d76-b967-4770-9c9c-5080dc234d13",
@@ -639,6 +703,14 @@
             }
         },
         {
+            "Key": "a58eea45-262d-4686-8bbd-2a60d506be30",
+            "Value": {
+                "id": "dca3ae3b-965f-40f9-b8c9-64065cefc3ba",
+                "resourcePath": "sprites\\sMoonBoss\\sMoonBoss.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a5ed6c22-8a60-46ae-8c06-dbab915eab82",
             "Value": {
                 "id": "31b3c65b-95f1-436b-8798-e0c984494808",
@@ -719,6 +791,14 @@
             }
         },
         {
+            "Key": "b8140eb3-14c0-4cca-97f5-ce11e70125c1",
+            "Value": {
+                "id": "f9531064-7792-447d-b7f6-89d760c2aa59",
+                "resourcePath": "sprites\\sMiniMoon\\sMiniMoon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b9261a8d-e3fe-4a9e-bc92-e20a8eb58703",
             "Value": {
                 "id": "83128153-558a-45ca-bed6-825e7772f997",
@@ -772,6 +852,14 @@
                 "id": "b663e3a8-a1ee-4c34-beb8-9b4d97509a95",
                 "resourcePath": "objects\\oEnemy3Shot\\oEnemy3Shot.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bf0016da-5cc9-4889-b5b0-175a30b0c0cc",
+            "Value": {
+                "id": "3c28c8f0-2615-4d37-91fc-3786d9f4883b",
+                "resourcePath": "sprites\\sBoss3WArm\\sBoss3WArm.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -903,6 +991,14 @@
             }
         },
         {
+            "Key": "d87913c2-00e8-4a6d-829f-0ab17eff8328",
+            "Value": {
+                "id": "1b1211f4-e6a8-4cea-9b97-46b2ea05f20a",
+                "resourcePath": "objects\\oBoss3Sunglasses\\oBoss3Sunglasses.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d8c36b7f-70f2-45f9-aa69-0ff4a6186f5b",
             "Value": {
                 "id": "525a0037-3c04-4f43-9ad5-7156d6cabcb9",
@@ -916,6 +1012,14 @@
                 "id": "66e017b6-1282-4087-837a-d8ee967a7f49",
                 "resourcePath": "views\\dff1de8e-116b-4fb1-ba0a-f2983f7cfba1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e16a5c09-fa4e-4ec9-b25b-54ee625c4e4a",
+            "Value": {
+                "id": "d2d0fb92-fe7a-4d28-97f7-9def3ed4bef5",
+                "resourcePath": "objects\\oBoss3Phase2\\oBoss3Phase2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
