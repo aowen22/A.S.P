@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-oBoss2.hp -= 20
 
-instance_destroy(other)
+MainController.bWinState = true
+instance_destroy(self)

@@ -17,15 +17,6 @@ camera_set_view_mat(camera, vm)
 
 instance_activate_region(x -view_wport[0]/2, y - view_hport[0]/2, view_wport[0], view_hport[0],true)
 
-//temporary game win/lose code for playable assignment
-if player.x > 4400 {
-	bWinState = true
-	player.grv = 0
-	player.vspd = 0
-	player.hspd = 0
-	player.can_shoot = false
-}
-
 if (player.y > 768 or player.hlth <= 0) {
 	bLoseState = true
 	player.grv = 0

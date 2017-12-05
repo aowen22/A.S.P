@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "91af2c76-db4c-4319-9aa6-d3d3ef35b79b",
+            "Value": {
+                "id": "b11e6468-2c43-4a4e-9285-7f8427a98918",
+                "resourcePath": "objects\\oBossDead\\oBossDead.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9279d63c-97ce-4f4b-a591-b3eed9ba4f80",
             "Value": {
                 "id": "0640b394-d2bf-43de-ab80-37a41f265b94",
@@ -907,6 +915,14 @@
             "Value": {
                 "id": "68fb9bae-8056-4ac2-b565-2cbb54202848",
                 "resourcePath": "objects\\MainController\\MainController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c93eb335-d9aa-4e3c-be45-b23bde0b8a67",
+            "Value": {
+                "id": "88068e5a-484c-4de3-b0ae-af47c1589d70",
+                "resourcePath": "objects\\oBossDeadExplosion\\oBossDeadExplosion.yy",
                 "resourceType": "GMObject"
             }
         },

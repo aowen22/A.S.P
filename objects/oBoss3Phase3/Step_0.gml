@@ -9,7 +9,7 @@ if(hp<=0){
 	instance_destroy(self)
 	instance_destroy(oBoss3Arm)
 	instance_destroy(oBoss3Sunglasses)
-	MainController.bWinState = true
+	instance_create_layer(x,y,"Death",oBossDead)
 }
 
 if(sprite_index == sBoss3Slam){

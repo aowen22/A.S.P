@@ -4,6 +4,7 @@
 //take damage
 hp --
 
+instance_destroy(other)
 //check if dead
 if(hp == 0){
 	instance_destroy(self)

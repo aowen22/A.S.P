@@ -35,7 +35,10 @@ if(hlth <= 0){
 	//end game
 }
 
-
+if(MainController.bWinState){
+	vspd = 0
+	grv = 0
+}
 
 //check for collisions
 
