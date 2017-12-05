@@ -3,6 +3,7 @@
 
 if(hp <= 0) {
 	instance_destroy(self)
+	MainController.bWinState = true
 	//Add death explosions
 	/*
 	instance_create_layer(
