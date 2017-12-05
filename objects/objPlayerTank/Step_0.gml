@@ -14,8 +14,8 @@ if (shoot && can_shoot){
 
 vspd += grv
 
-if (vspd > 15){
-	vspd = 15
+if (vspd > 20){
+	vspd = 20
 }else if (vspd < -20){
 	vspd = -20
 }

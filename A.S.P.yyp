@@ -50,7 +50,7 @@
             "Key": "03e0526b-17cc-4ca0-a204-e23a73f14025",
             "Value": {
                 "id": "a99ba0ce-ab75-4d85-8e27-9f91e426290e",
-                "resourcePath": "rooms\\rTest\\rTest.yy",
+                "resourcePath": "rooms\\rStage1\\rStage1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -68,6 +68,14 @@
                 "id": "d55e8e1e-cf47-4409-8ed6-ce8c067eeede",
                 "resourcePath": "objects\\objPlayerOneGun1\\objPlayerOneGun1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "08749f36-9568-41be-95e7-d5e0c6828ca5",
+            "Value": {
+                "id": "120c6d34-7b19-4ef4-8aa8-106c1a2a7bd3",
+                "resourcePath": "sprites\\sBullet1\\sBullet1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

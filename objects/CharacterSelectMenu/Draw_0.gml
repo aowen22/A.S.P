@@ -3,7 +3,7 @@
 draw_rectangle_color(draw_posx - 200, draw_posy + 100, draw_posx + 300, draw_posy + 400,c_black,c_black,c_black,c_black,false)
 switch(character){
 	case 0:
-		draw_sprite(sprBazookaGuy,0,draw_posx,draw_posy)
+		draw_sprite(sprBazookaGuyIdle,0,draw_posx,draw_posy)
 		
 		draw_set_font(Stamp)
 		draw_text_color(draw_posx - 100,draw_posy + 100,"[A.P.S-SingleCannon]", c_red, c_red, c_red, c_red,1)
