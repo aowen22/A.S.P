@@ -687,6 +687,14 @@
             }
         },
         {
+            "Key": "960fb571-e86b-425e-a8f7-bcb8bfe518af",
+            "Value": {
+                "id": "4a2e91e2-03c4-4928-a6b8-49c759e30784",
+                "resourcePath": "paths\\pBounce\\pBounce.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "988658a1-35d0-4c44-b415-f7baeed8da75",
             "Value": {
                 "id": "d931755f-915b-4531-892f-9d15635dea22",

@@ -2,18 +2,21 @@
 // You can write your code in this editor
 instance_deactivate_all(true)
 instance_activate_object(objRoofBoundary)
-
+selection = 0
 audio_play_sound(sdbgm,0,true)
 
 switch(global.selectedCharacter){
 	case 0:
 		player = instance_create_layer(160,96,"Instances",objPlayerOneGun)
+		maxhlth = 7
 		break
 	case 1:
 		player = instance_create_layer(160,96,"Instances",objPlayerDualCannon)
+		maxhlth = 7
 		break
 	case 2:
 		player = instance_create_layer(160,96,"Instances",objPlayerTank)
+		maxhlth = 10
 		break
 }
 

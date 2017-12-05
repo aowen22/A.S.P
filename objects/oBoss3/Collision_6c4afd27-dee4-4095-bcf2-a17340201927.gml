@@ -3,7 +3,7 @@
 
 hp --
 with(other){
-	expl = instance_create_layer(x+sprite_width,y,"Instances",objExplosion)
+	expl = instance_create_layer(x+(sprite_width/2),y,"Instances",objExplosion)
 	expl.image_angle = 90
 	instance_destroy(self)
 }

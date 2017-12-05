@@ -9,6 +9,6 @@ switch(room){
 		sprite_index = sprBoss2
 		break
 	case rStage1:
-		sprite_index = sprBoss1
+		sprite_index = sBoss1
 		break
 }

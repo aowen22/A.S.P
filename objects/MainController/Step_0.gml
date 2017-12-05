@@ -23,8 +23,11 @@ if (player.y > 768 or player.hlth <= 0) {
 	player.vspd = 0
 	player.hspd = 0
 	player.can_shoot = false
-	if bDeathExplosion == false {
-		bDeathExplosion = true
-		instance_create_layer(player.x,player.y -100,"Instances",objExplosion)
-	}
+}
+
+if (instance_exists(oBossDead)){
+	player.grv = 0
+	player.vspd = 0
+	player.hspd = 0
+	player.can_shoot = false
 }

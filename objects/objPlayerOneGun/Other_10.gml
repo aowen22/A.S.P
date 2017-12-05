@@ -6,7 +6,7 @@ audio_play_sound(sdfire,0,false)
 sprite_index = sprBazookaGuyDown
 vspd = -jump_speed
 can_shoot = false
-var bullet = instance_create_layer(x-100,y,"Instances", objMissile)
+var bullet = instance_create_layer(x,y,"Instances", objMissile)
 bullet.sprite_index = sprMissileDown
 bullet.vspd = projectile_speed
 bullet.hspd = self.hspd
