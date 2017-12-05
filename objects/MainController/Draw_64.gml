@@ -3,11 +3,11 @@
 if bWinState = true {
 	draw_set_color(c_green)
 	draw_set_font(Stamp)
-	draw_text_transformed(player.x,player.y,"[Tobecontinued...]",5,5,0)
+	draw_text_transformed(150,300,"[MissionSuccess]",3,3,20)
 }
 
 if bLoseState = true {
 	draw_set_color(c_red)
 	draw_set_font(Stamp)
-	draw_text_transformed(player.x-100,player.y - 500,"[MissionFailed]",3,3,20)
+	draw_text_transformed(150,300,"[MissionFailed]",3,3,20)
 }

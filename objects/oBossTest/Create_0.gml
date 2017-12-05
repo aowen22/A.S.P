@@ -6,7 +6,7 @@
 
 switch(room){
 	case rTest: 
-		instance_create_layer(MainController.x,MainController.y,"Instances",oBoss1)
+		instance_create_layer(MainController.x + view_wport[0]*.4,MainController.y - 50,"Instances",oBoss1)
 		break
 		/*
 	case rStage2:

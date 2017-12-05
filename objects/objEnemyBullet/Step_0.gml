@@ -12,11 +12,11 @@ if (objType == 2) {
 	if(bHasFired == false) {
 		hspeed = -10
 		vspeed = -10
-		image_angle = 45
+		image_angle = -45
 		downBullet = instance_create_layer(x,y,"Instances",objEnemyBullet)
 		downBullet.hspeed = -10
 		downBullet.vspeed = 10
-		downBullet.image_angle = -45
+		downBullet.image_angle = 45
 		bHasFired = true
 	}
 	
@@ -30,10 +30,10 @@ if (objType == 3) {
 		downBullet = instance_create_layer(x,y,"Instances",objEnemyBullet)
 		upBullet.hspeed = -10
 		upBullet.vspeed = -10
-		upBullet.image_angle = 45
+		upBullet.image_angle = -45
 		downBullet.hspeed = -10
 		downBullet.vspeed = 10
-		downBullet.image_angle = -45
+		downBullet.image_angle = 45
 		bHasFired = true
 	}
 }

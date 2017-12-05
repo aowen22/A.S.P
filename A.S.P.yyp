@@ -719,6 +719,14 @@
             }
         },
         {
+            "Key": "d4ec6830-d413-4c1b-af8e-8c6644558ac8",
+            "Value": {
+                "id": "7ea28adb-11b3-42f5-be49-37a2cf510c82",
+                "resourcePath": "objects\\oTankExplosion\\oTankExplosion.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d5b421c8-8b4b-4737-8a66-650d4fa835d5",
             "Value": {
                 "id": "b2bc270a-e83b-4169-9b8b-a657c45df66e",
