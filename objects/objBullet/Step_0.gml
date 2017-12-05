@@ -1,5 +1,6 @@
 x += hspd
 y += vspd
+image_angle += spin
 alarm_set(0,room_speed * 1)
 
 /*

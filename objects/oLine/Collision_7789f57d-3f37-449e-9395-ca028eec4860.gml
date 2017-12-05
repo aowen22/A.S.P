@@ -5,6 +5,7 @@ other.hspd = 0
 
 switch(room){
 	case rStage1:
+		instance_create_layer(4896,202,"Instances",oBoss1)
 	break
 	case rStage2:
 		oBoss2.invul = false
@@ -12,8 +13,5 @@ switch(room){
 	case rStage3:
 	break
 }
-
-
-instance_create_layer(x,y,"Instances",oBossTest)
 
 instance_destroy(self)
