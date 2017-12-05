@@ -8,7 +8,7 @@ switch(character){
 		draw_set_font(Stamp)
 		draw_text_color(draw_posx - 100,draw_posy + 100,"[A.P.S-SingleCannon]", c_red, c_red, c_red, c_red,1)
 		draw_set_font(fdescription)
-		draw_text_color(draw_posx - 200, draw_posy + 150, "The Original Advanced Propulsion System (A.P.S)\nPowerful Cannon used to\nkeep agent airbourne\nVertical movement and\nfiring share cooldown",c_red,c_red,c_red,c_red,1)
+		draw_text_color(draw_posx - 200, draw_posy + 150, "The Original\nAdvanced Propulsion System (A.P.S)\nPowerful Cannon used to\nkeep agent airbourne\nVertical movement and\nfiring share cooldown\n\nZ -> Shoot\nSpace -> Jump",c_red,c_red,c_red,c_red,1)
 		break
 	case 1:
 		draw_sprite(sprPlayerDualCannon,0,draw_posx,draw_posy)
@@ -16,7 +16,7 @@ switch(character){
 		draw_set_font(Stamp)
 		draw_text_color(draw_posx - 100,draw_posy + 100,"[A.P.S-DualGun]", c_red, c_red, c_red, c_red,1)
 		draw_set_font(fdescription)
-		draw_text_color(draw_posx - 200, draw_posy + 150, "Modified A.P.S. A pair of guns\nthat are fired simultaniously\nVertical movement and firing happen\ntogether",c_red,c_red,c_red,c_red,1)
+		draw_text_color(draw_posx - 200, draw_posy + 150, "Modified A.P.S. A pair of guns\nthat are fired simultaniously\nVertical movement and firing happen\ntogether\n\nZ -> Attack & Jump\nSpace -> Attack & Jump",c_red,c_red,c_red,c_red,1)
 		break
 		break
 	case 2:
@@ -25,7 +25,7 @@ switch(character){
 		draw_set_font(Stamp)
 		draw_text_color(draw_posx - 100,draw_posy + 100,"[A.P.S-Tank]", c_red, c_red, c_red, c_red,1)
 		draw_set_font(fdescription)
-		draw_text_color(draw_posx - 200, draw_posy + 150, "The A.P.S equipped tank.\nTank fires in direction of cannon barrel\nto either propel or destroy",c_red,c_red,c_red,c_red,1)
+		draw_text_color(draw_posx - 200, draw_posy + 150, "The A.P.S equipped tank.\nTank fires in direction of cannon barrel\nto either propel or attack\n\nZ -> Shoot in direction of cannon\nSpace -> Rotate Cannon",c_red,c_red,c_red,c_red,1)
 		break
 }
 
